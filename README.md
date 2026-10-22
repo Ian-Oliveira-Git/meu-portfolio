@@ -12,11 +12,11 @@ Bem-vindo ao meu repositório do GitHub! Este projeto foi desenvolvido para orga
 
 ## 👨‍💻 Sobre Mim
 
-\- **Nome: Ian Lopes Rosa de Oliveira
+\- ** Nome: Ian Lopes Rosa de Oliveira
 
-\- **Curso: Ciência da Computação
+\- ** Curso: Ciência da Computação
 
-\- **Área de Interesse* Desenvolvimento de Software e Programação
+\- ** Área de Interesse: Desenvolvimento de Software e Programação
 
 
 
