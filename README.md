@@ -43,8 +43,10 @@ meu-portfolio/
 ├── PLANEJAMENTO.md          # Plano de implantação com auxílio do Gemini
 ├── SEGURANCA.md             # Políticas de segurança e controle de acessos
 ├── projetos-academicos/     # Pasta de projetos da faculdade
-│   └── README.md
+│   
+    └── README.md
 └── projetos-pessoais/       # Pasta de projetos individuais
+    
     └── README.md
 └── projetos-pessoais/          # Projetos autorais e estudos individuais
 
