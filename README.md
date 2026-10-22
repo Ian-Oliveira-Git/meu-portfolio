@@ -38,15 +38,14 @@ Bem-vindo ao meu repositório do GitHub! Este projeto foi desenvolvido para orga
 
 ## 📁 Estrutura do Repositório
 meu-portfolio/
-
-├── index.html                  # Página principal do portfólio (GitHub Pages)
-
-├── README.md                   # Documentação do repositório
-
-├── projetos-academicos/        # Trabalhos, resumos e exercícios do curso
-
+├── index.html               # Site principal (GitHub Pages)
+├── README.md                # Documentação geral do repositório
+├── PLANEJAMENTO.md          # Plano de implantação com auxílio do Gemini
+├── SEGURANCA.md             # Políticas de segurança e controle de acessos
+├── projetos-academicos/     # Pasta de projetos da faculdade
 │   └── README.md
-
+└── projetos-pessoais/       # Pasta de projetos individuais
+    └── README.md
 └── projetos-pessoais/          # Projetos autorais e estudos individuais
 
 └── README.md
