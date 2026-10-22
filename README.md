@@ -1,4 +1,4 @@
-\# 🚀 Meu Portfólio Profissional - Ian Lopes Rosa de Oliveira
+# 🚀 Meu Portfólio Profissional - Ian Lopes Rosa de Oliveira
 
 
 
@@ -6,11 +6,11 @@ Bem-vindo ao meu repositório do GitHub! Este projeto foi desenvolvido para orga
 
 
 
-\---
+---
 
 
 
-\## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
 \- \*\*Nome: Ian Lopes Rosa de Oliveira
 
@@ -20,11 +20,11 @@ Bem-vindo ao meu repositório do GitHub! Este projeto foi desenvolvido para orga
 
 
 
-\---
+---
 
 
 
-\## 🌐 Links do Projeto
+## 🌐 Links do Projeto
 
 \- 💻 \*\*Página Web (GitHub Pages):\*\* \[Acessar Meu Portfólio](https://ian-oliveira-git.github.io/meu-portfolio/)
 
@@ -36,7 +36,7 @@ Bem-vindo ao meu repositório do GitHub! Este projeto foi desenvolvido para orga
 
 
 
-\## 📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 meu-portfolio/
 
 ├── index.html                  # Página principal do portfólio (GitHub Pages)
